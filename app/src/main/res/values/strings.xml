@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Par impar app</string>
+    <string name="incorrectos_text_view">Incorrectos:</string>
+    <string name="correctos_text_view">Correctos:</string>
+    <string name="btn_impar">Impar</string>
+    <string name="btn_par">Par</string>
+</resources>
